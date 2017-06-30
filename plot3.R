@@ -1,6 +1,6 @@
 ## This assigment is part of coursera's "Data Science: Exploratory Data Analysis" module
 ## Week 1 assignment
-## Description: This file loads "Electric Power Consumption" data from 
+## Description: This file loads "Electric Power Consumption" dataset from 
 ## "household_power_consumption.txt" file and plots a X-Y line chart of 
 ## "Energy Submetering" frequencies between the
 ## dates "2007-02-01" and "2007-02-02" excluding "?" missing values
